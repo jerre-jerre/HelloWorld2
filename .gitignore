@@ -4,3 +4,4 @@ NotInclude/
 .idea/workspace.xml
 /NotInclude/
 /NotInclude/NotIncludeFile1
+/DoIncludeFolder/
