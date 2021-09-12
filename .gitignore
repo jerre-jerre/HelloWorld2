@@ -1,9 +1,11 @@
+# Setting up this file properly
+
+# Folders to ignore
+.idea
+NotInclude
+out
+
+# Specific files to ingore
 NotIncludeFile3
-.idea/NotIncludeFile4
-NotInclude/
-.idea/workspace.xml
-/NotInclude/
-/NotInclude/NotIncludeFile1
-/DoIncludeFolder/
-/out/
-/.idea/*
+
+# File types to ignore
