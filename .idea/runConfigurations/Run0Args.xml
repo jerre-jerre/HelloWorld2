@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Run0Args" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="HelloWorld2" />
-    <module name="HelloWorld2" />
-    <method v="2">
-      <option name="Make" enabled="true" />
-    </method>
-  </configuration>
-</component>
