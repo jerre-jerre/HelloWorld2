@@ -6,3 +6,4 @@ NotInclude/
 /NotInclude/NotIncludeFile1
 /DoIncludeFolder/
 /out/
+/.idea/*
